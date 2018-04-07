@@ -12,4 +12,4 @@ TOC
 - Week 4
 
 .. _The Unix Workbench: https://www.coursera.org/learn/unix
-.. _Week 1: week3/
+.. _Week 3: week3/
