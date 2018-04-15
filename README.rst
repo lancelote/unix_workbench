@@ -6,8 +6,8 @@ Coursera `The Unix Workbench`_ course
 TOC
 ---
 
-- ✓ Week 1
-- ✓ Week 2
+- Week 1
+- Week 2
 - `Week 3`_
 - Week 4
 
